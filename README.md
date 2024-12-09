@@ -14,3 +14,9 @@
 ## 🛠 Compétences
 - **Langages de programmation** : C, C#, HTML, CSS, Python, JavaScript, Java, PHP.
 - **Gestion de bases de données** : Oracle, Microsoft SQL Server, MySQL.
+##🌐Connectons-nous !
+## 🌟 Restons en contact !
+
+[![LinkedIn](linkedin.com/in/ayoub-assila-288389301)
+[![Email](https://mail.google.com/mail/u/0/?hl=fr#inbox)
+[![Instagram](https://www.instagram.com/)
