@@ -1,5 +1,11 @@
 # Salut, je suis Assila Ayoub. 👋  
 **Étudiant en **Business Computing** à l'**ESSECT**.**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenue!+Je+suis+Assila+Ayoub;Étudiant+en+Business+Computing;Futur+Développeur+Web+et+Mobile;Toujours+en+train+d'apprendre..❤">
+</a>
+
+
 
 ---
 
@@ -25,3 +31,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
+media.giphy.com
