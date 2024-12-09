@@ -1,5 +1,5 @@
 # Salut, je suis Assila Ayoub. 👋  
-**Développeur**
+**Étudiant en **Business Computing** à l'**ESSECT**.**
 
 ---
 
