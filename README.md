@@ -23,8 +23,8 @@
 
  ---
 
-##🌐Connectons-nous !
-## 🌟 Restons en contact 
+## 🌐Connectons-nous !
+ 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ayoub-assila-288389301)
